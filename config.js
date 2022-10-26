@@ -60,9 +60,9 @@ global.limitawal = {
     premium: "Infinity",
     free: 20
 }
-global.thumb = fs.readFileSync('./media/image/DaniXd.jpg')
+global.thumb = fs.readFileSync('./media/image/images.jpeg')
 global.faall = fs.readFileSync('./media/image/Fake.jpg')
-global.mygit = 'https://github.com/YTDANIBOTZ'
+global.mygit = 'https://github.com/18383973'
 global.myyt = 'https://youtube.com/channel/UCuo4SSYAIVE73sQvgsQd5gQ'
 global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
 global.mygc = "https://chat.whatsapp.com/E4mPMyGkTmpCdlJiVDoLp8"
