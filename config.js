@@ -2,18 +2,18 @@
 
 Yg Mau Sv Nomerku?
 
-wa.me/6281251549899
+wa.me/6285878258447
 
 Minimal Kasih Cr kalo mau reupload😡
 Create By Dika Ardnt.
-Recode By Naze & DaniXd
+Recode By Naze & VinnXD
 
 Kalau Sampai Ketemu Lagi Creator Bot
 Yg Reupload Tanpa Kasih Cr 
 Sc Akan Saya Encode
 
 Base : Hisoka
-Recode : Naze & DaniXd
+Recode : Naze & VinnXD
 
 **/
 
@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281251549899']
-global.ownernomer = "6281251549899"
-global.premium = ['6281251549899']
-global.packname = 'DaniBotz'
-global.author = 'By DaniXd'
+global.owner = ['6285878258447']
+global.ownernomer = "6285878258447"
+global.premium = ['6285878258447']
+global.packname = 'VinnXD-Botz'
+global.author = 'By Vincentt ?'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -66,9 +66,9 @@ global.mygit = 'https://github.com/YTDANIBOTZ'
 global.myyt = 'https://youtube.com/channel/UCuo4SSYAIVE73sQvgsQd5gQ'
 global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
 global.mygc = "https://chat.whatsapp.com/E4mPMyGkTmpCdlJiVDoLp8"
-global.botname = 'DaniBotz-MD'
-global.akulaku = 'Bot By DaniXd'
-global.ytname = 'YT DaniXd'
+global.botname = 'VinnXdBotz-MD'
+global.akulaku = 'Bot By Vincentt ?'
+global.ytname = '-'
 
 
 let file = require.resolve(__filename)
